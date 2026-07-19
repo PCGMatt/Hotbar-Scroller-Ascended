@@ -47,9 +47,7 @@ This software will always be free to use, but if you like this project and feel 
 
 Donations are handled by Ko-Fi and PayPal. I will never see or process your information directly.
 
-<a href="https://ko-fi.com/pcgmatt" target="_blank">
-  <img src="https://ko-fi.com" alt="Buy Me a Coffee at ko-fi.com" height="40">
-</a>
+[Buy me a Coffee at Ko-Fi](https://ko-fi.com/pcgmatt)
 
 ---
 
