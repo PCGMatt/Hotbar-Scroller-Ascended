@@ -19,7 +19,7 @@ I made this program because the solutions I found online were outdated or lacked
 ## Setup and Use
 
 1. Download and install [AutoHotKey](https://www.autohotkey.com/). It is free and open source.
-2. Download `Hotbar Scroller Ascended.ahk` from this GitHub repository and put it somewhere convenient.
+2. Download `Hotbar Scroller Ascended.ahk` [from the releases section on the sidebar](https://github.com/PCGMatt/Hotbar-Scroller-Ascended/releases) and put it somewhere convenient.
 3. In your game settings, change the keybinds associated with scrolling to something else. By default scrolling changes from 1st person to 3rd person perspective.
 4. Simply run the script each time you play the game.
 
